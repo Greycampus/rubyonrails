@@ -1,4 +1,4 @@
-**Installation of Ruby on Rails for various Ubuntu 14.04**
+**Installation of Ruby on Rails on Ubuntu 14.04**
 ==================================
   
   
