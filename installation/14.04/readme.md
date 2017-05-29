@@ -2,7 +2,7 @@
 ==================================
   
   
-For **installation** using **Rbenv** open rbrnv.md
+For **installation** using **Rbenv** open rbenv.md
 
 For **installation** using **Rvm** open rvm.md
 
