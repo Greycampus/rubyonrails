@@ -4,33 +4,59 @@ Installation using Rbenv
 ------------------------
 
 ```
-  For installation manual in ubuntu(14.04) open docx/14.04/rbenv.md
+  For installation manual in Ubuntu 14.04  open docx/14.04/rbenv.md
   
-  For bash script for installing Rails environment on Ubuntu 14.04 open shell-script/rbenv.sh 
+  For bash script for installing Ruby on Rails on Ubuntu 14.04 open shell-script/rbenv.sh 
 ```
 
 ```
-  For installation manual in ubuntu(15.04) open docx/15.04/rbenv.md
+  For installation manual in Ubuntu 15.04 open docx/15.04/rbenv.md
   
-  For bash script for installing Rails environment on Ubuntu 15.04 open shell-script/rbenv.sh 
+  For bash script for installing Rails on Ubuntu 15.04 open shell-script/rbenv.sh 
   ```
   
   ```
-  For installation manual in ubuntu(16.04) open docx/16.04/rbenv.md
+  For installation manual in Ubuntu 16.04  open docx/16.04/rbenv.md
   
-  For bash script for installing Rails environment on Ubuntu 14.04 open shell-script/rbenv.sh 
+  For bash script for installing Rails on Ubuntu 16.04 open shell-script/rbenv.sh 
   ```
 
 
 Installation using Rvm
 ----------------------
-*  For installation manual in ubuntu(14.04) open docx/14.04/rvm.md
-*  For installation manual in ubuntu(15.04) open docx/15.04/rvm.md
-*  For installation manual in ubuntu(16.04) open docx/16.04/rvm.md
+```
+  For installation manual in Ubuntu 14.04 open docx/14.04/rbenv.md
+  
+  For bash script for installing Rails on Ubuntu 14.04 open shell-script/rvm.sh 
+```
 
+```
+  For installation manual in Ubuntu 15.04 open docx/15.04/rvm.md
+  
+  For bash script for installing Rails on Ubuntu 15.04 open shell-script/rvm.sh 
+  ```
+  
+  ```
+  For installation manual in Ubuntu 16.04 open docx/16.04/rbenv.md
+  
+  For bash script for installing Rails on Ubuntu 16.04 open shell-script/rvm.sh 
+  ```
 Installation from Source
 -----------------------------------------------
-*  For installation manual in ubuntu(14.04) open docx/14.04/source.md
-*  For installation manual in ubuntu(15.04) open docx/15.04/source.md
-*  For installation manual in ubuntu(16.04) open docx/16.04/source.md
+```
+  For installation manual in Ubuntu 14.04 open docx/14.04/source.md
+  
+  For bash script for installing Rails on Ubuntu 14.04 open shell-script/source.sh 
+```
 
+```
+  For installation manual in Ubuntu 15.04 open docx/15.04/source.md
+  
+  For bash script for installing Rails on Ubuntu 15.04 open shell-script/source.sh 
+  ```
+  
+  ```
+  For installation manual in Ubuntu 16.04 open docx/16.04/source.md
+  
+  For bash script for installing Rails on Ubuntu 16.04 open shell-script/source.sh 
+  ```
