@@ -2,11 +2,25 @@ This article consists of steps involved in **Installation of Ruby on Rails for v
 ==================================
 Installation using Rbenv
 ------------------------
+
 ```
   For installation manual in ubuntu(14.04) open docx/14.04/rbenv.md
-  For installation manual in ubuntu(15.04) open docx/15.04/rbenv.md
-  For installation manual in ubuntu(16.04) open docx/16.04/rbenv.md
+  
+  For bash script for installing Rails environment on Ubuntu 14.04 open shell-script/rbenv.sh 
 ```
+
+```
+  For installation manual in ubuntu(15.04) open docx/15.04/rbenv.md
+  
+  For bash script for installing Rails environment on Ubuntu 15.04 open shell-script/rbenv.sh 
+  ```
+  
+  ```
+  For installation manual in ubuntu(16.04) open docx/16.04/rbenv.md
+  
+  For bash script for installing Rails environment on Ubuntu 14.04 open shell-script/rbenv.sh 
+  ```
+
 
 Installation using Rvm
 ----------------------
