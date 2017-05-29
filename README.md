@@ -2,6 +2,6 @@
 ==================================
   
   
-For **installation guide** goto installation folder
+For **installation guide** go to installation folder
 
-For **bash script** for installation goto shell-script folder
+For **bash script** for installation go to shell-script folder
