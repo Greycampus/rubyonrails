@@ -21,7 +21,7 @@ $ sudo docker run --name docker-nginx -p 80:80 nginx
 ![alt text](https://github.com/Greycampus/rubyonrails/blob/master/images/Nginx_docker/6.png)
 
 
-Open any web browser and enter localhost:80
+Open any web browser and enter [localhost:80](https://localhost:80) 
 ------------------------------------
 ![alt text](https://github.com/Greycampus/rubyonrails/blob/master/images/Nginx_docker/2.png)
 
