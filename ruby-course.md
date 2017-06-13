@@ -14,64 +14,65 @@ RUBY COURSE
 	2.3 Installation from Source
 	2.4 Running a simple Hello World! program
 
-3. Ruby Operators
-	3.1 Unary Operator
-	3.2 Airthmetic Operator
-	3.3 Bitwise Operator
-	3.4 Logical Operator
-	3.5 Ternary Operator
-	3.6 Assignment Operator
-	3.7 Comparison Operator
-	3.8 Range Operator
 
-4. Ruby Variables
-	4.1 Local variables
-	4.2 Class variables
-	4.3 Instance variables
-	4.4 Global variables
-	4.5 Ruby Constants
-	4.6 Ruby Pseudo-Variables
+3. Ruby Variables
+	3.1 Local variables
+	3.2 Class variables
+	3.3 Instance variables
+	3.4 Global variables
+	3.5 Ruby Constants
+	3.6 Ruby Pseudo-Variables
+	
+	
+4. Ruby Data Types
+	4.1 Numbers
+		4.1.1 Integer Numbers
+		4.1.2 Floating Numbers
+	4.2 Strings
+		4.2.1 Accessing string elements
+		4.2.2 Multiline string
+		4.2.3 Variable Interpolation
+		4.2.4 Concatenating Strings
+		4.2.5 Freezing Strings
+		4.2.6 Comparing Strings
+	4.3 Symbols
+	4.4 Hashes
+		4.4.1 Creating Ruby Hash
+		4.4.2 Modifying Ruby Hash
+		4.4.3 Ruby Hash Methods
+		4.4.3.1 Public Class Methods
+		4.4.3.2 Public Instance Methods
+	4.5 Arrays
+		4.5.1 Creating Ruby Arrays
+			4.5.1.1 Using literal construct []
+			4.5.1.2 Using new class method
+		4.5.2 Accessing Array Elements
+			4.5.2.1 at method
+			4.5.2.2 slice method
+			4.5.2.3 fetch method
+			4.5.2.4 first and last method
+			4.5.2.5 take method
+			4.5.2.6 drop method
+		4.5.3 Adding Items to Array
+			4.5.3.1 push or <<
+			4.5.3.2 unshift
+			4.5.3.3 insert
+		4.5.4 Removing Items from Array
+			4.5.4.1 pop
+			4.5.4.2 shift
+			4.5.4.3 delete
+			4.5.4.4 uniq
+			
 
-
-5. Ruby Data Types
-	5.1 Numbers
-		5.1.1 Integer Numbers
-		5.1.2 Floating Numbers
-	5.2 Strings
-		5.2.1 Accessing string elements
-		5.2.2 Multiline string
-		5.2.3 Variable Interpolation
-		5.2.4 Concatenating Strings
-		5.2.5 Freezing Strings
-		5.2.6 Comparing Strings
-	5.3 Symbols
-	5.4 Hashes
-		5.4.1 Creating Ruby Hash
-		5.4.2 Modifying Ruby Hash
-		5.4.3 Ruby Hash Methods
-		5.4.3.1 Public Class Methods
-		5.4.3.2 Public Instance Methods
-
-	5.5 Arrays
-		5.5.1 Creating Ruby Arrays
-			5.5.1.1 Using literal construct []
-			5.5.1.2 Using new class method
-		5.5.2 Accessing Array Elements
-			5.5.2.1 at method
-			5.5.2.2 slice method
-			5.5.2.3 fetch method
-			5.5.2.4 first and last method
-			5.5.2.5 take method
-			5.5.2.6 drop method
-		5.5.3 Adding Items to Array
-			5.5.3.1 push or <<
-			5.5.3.2 unshift
-			5.5.3.3 insert
-		5.5.4 Removing Items from Array
-			5.5.4.1 pop
-			5.5.4.2 shift
-			5.5.4.3 delete
-			5.5.4.4 uniq
+5. Ruby Operators
+	5.1 Unary Operator
+	5.2 Airthmetic Operator
+	5.3 Bitwise Operator
+	5.4 Logical Operator
+	5.5 Ternary Operator
+	5.6 Assignment Operator
+	5.7 Comparison Operator
+	5.8 Range Operator
 
 6. Ruby Control Statements
 	6.1 If-else Statement
@@ -86,7 +87,6 @@ RUBY COURSE
 				6.3.1.1.2 Ranges as Conditions
 				6.3.1.1.3 Ranges as Intervals
 				6.3.1.1.4 Ruby Reverse Range
-
 		6.3.2 Loop using array
 		6.3.3 while Loop
 		6.3.4 do while Loop
@@ -96,69 +96,69 @@ RUBY COURSE
 	6.6 redo Statement
 	6.7 retry Statement
 
-7. Ruby Class and Object
-	7.1 Ruby Object
-		7.1.1 Creating an Object
-	7.2 Ruby Class
-		7.2.1 Creating Objects in Ruby using new Method
-		7.2.2 Custom Method to Create Ruby Objects
-	7.3 Ruby Methods
-		7.3.1 Basics 
-			7.3.1.1 Defining Method
-			7.3.1.2 Defining Method with Parameter
-			7.3.1.3 The initialize Method
-			7.3.1.4 The accessor & setter Methods
-			7.3.1.5 The instance Methods
-			7.3.1.6 The class Methods and Variables
-			7.3.1.7 The to_s Method
-		7.3.2 Access Control
-			7.3.2.1 Public Methods
-			7.3.2.2 Private Methods
-			7.3.2.3 Protected Methods
 
-8. Ruby Blocks
-	8.1 The yield statement
-	8.2 Block Variables
-	8.3 BEGIN and END block
-	8.4 Ampersand parameter (&block)
+7. Ruby File I/O
+	7.1 IO Console
+	7.2 Opening a file
+	7.3 Reading a file
+	7.4 Writing a file
+	7.5 Renaming and Deleting a file
 
-9. Ruby Modules
-	9.1 Module Namespaces
-	9.2 Module Mixins
+8. Ruby Regular Expression
+	8.1 =∽  operators
+	8.2 #match operator
+	8.3 Metacharacters and Escapes
+	8.4 Characters Classes
+	8.5 Repetition 
+	8.6 Grouping
+
+9. Ruby Class and Object
+	9.1 Ruby Object
+		9.1.1 Creating an Object
+	9.2 Ruby Class
+		9.2.1 Creating Objects in Ruby using new Method
+		9.2.2 Custom Method to Create Ruby Objects
+	9.3 Ruby Methods
+		9.3.1 Basics 
+			9.3.1.1 Defining Method
+			9.3.1.2 Defining Method with Parameter
+			9.3.1.3 The initialize Method
+			9.3.1.4 The accessor & setter Methods
+			9.3.1.5 The instance Methods
+			9.3.1.6 The class Methods and Variables
+			9.3.1.7 The to_s Method
+		9.3.2 Access Control
+			9.3.2.1 Public Methods
+			9.3.2.2 Private Methods
+			9.3.2.3 Protected Methods
+
+10. Exceptions,Catch,throw
+	10.1 Class Exceptions
+	10.2 Handling an Exception
+	10.3 Exception Object
+	10.4 Using retry Statement
+	10.5 Using raise Statement
+	10.6 Using ensure Statement
+	10.7 Using else Statement
+	10.8 Ruby Catch and Throw
+
+11. Ruby Blocks
+	11.1 The yield statement
+	11.2 Block Variables
+	11.3 BEGIN and END block
+	11.4 Ampersand parameter (&block)
+
+12. Ruby Modules
+	12.1 Module Namespaces
+	12.2 Module Mixins
 
 
-10. Ruby Iterators
-	10.1 Each Iterator
-	10.2 Times Iterator
-	10.3 Upto and Downto Iterators
-	10.4 Step Iterator
-	10.5 Each_Line Iterator
-
-11 Ruby File I/O
-	11.1 IO Console
-	11.2 Opening a file
-	11.3 Reading a file
-	11.4 Writing a file
-	11.5 Renaming and Deleting a file
-
-12 Exceptions,Catch,throw
-	12.1 Class Exceptions
-	12.2 Handling an Exception
-	12.3 Exception Object
-	12.4 Using retry Statement
-	12.5 Using raise Statement
-	12.6 Using ensure Statement
-	12.7 Using else Statement
-	12.8 Ruby Catch and Throw
-
-
-13 Ruby Regular Expression
-	13.1 =∽  operators
-	13.2 #match operator
-	13.3 Metacharacters and Escapes
-	13.4 Characters Classes
-	13.5 Repetition 
-	13.6 Grouping
+13. Ruby Iterators
+	13.1 Each Iterator
+	13.2 Times Iterator
+	13.3 Upto and Downto Iterators
+	13.4 Step Iterator
+	13.5 Each_Line Iterator
 
 14 Ruby - Multithreading
 	14.1 Creating Ruby Threads
