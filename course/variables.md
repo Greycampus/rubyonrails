@@ -63,7 +63,7 @@ They are special variables that have the appearance of local variables but behav
 Comparision
 -----------
 
-|        	||Local|Global                                                                       	| Instance|Class|
+|        	|Local|Global| Instance|Class|
 |----------------	|-----------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------	|----------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------	|
 | Scope          	| Limited within the block of initialization.                                                         	| Its scope is globally.                                                         	| It belongs to one instance of a class.                                           	| Limited to the whole class in which they are created.                                         	|
 | Naming         	| Starts with a lowercase letter or underscore (_).                                                   	| Starts with a $ sign.                                                          	| Starts with an @ sign.                                                           	| Starts with an @@ sign.                                                                       	|
