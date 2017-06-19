@@ -1,0 +1,4 @@
+hello world!
+I'm chitti, the robot
+speed : 1 THz
+Memory : 1 GB 
